@@ -1,7 +1,7 @@
 import React from 'react';
 import { Breadcrumb, BreadcrumbItem, Card, CardBody, CardHeader, Media } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import { PopperPlacements } from 'reactstrap/lib/utils';
+//import { PopperPlacements } from 'reactstrap/lib/utils';
 
 
 function About(props) {

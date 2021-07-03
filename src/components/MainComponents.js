@@ -8,6 +8,7 @@ import { Switch, Route, Redirect, withRouter } from 'react-router-dom';
 import { connect } from 'react-redux';
 import About from './AboutComponent';
 import Contact from './ContactComponent';
+
 const mapStateToProps = state => {
     return {
         campsites: state.campsites,

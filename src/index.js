@@ -10,7 +10,7 @@ import 'font-awesome/css/font-awesome.css';
 
 import 'bootstrap-social/bootstrap-social.css';
 import App from './App';
-import { findRenderedComponentWithType } from 'react-dom/cjs/react-dom-test-utils.production.min';
+//import { findRenderedComponentWithType } from 'react-dom/cjs/react-dom-test-utils.production.min';
 
 ReactDOM.render(
   <React.StrictMode>
